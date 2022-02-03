@@ -1,0 +1,7 @@
+C:\Users\Scoob\Documents\GitHub\EmailChecker\EmailChecker\obj\Debug\EmailChecker.csproj.AssemblyReference.cache
+C:\Users\Scoob\Documents\GitHub\EmailChecker\EmailChecker\obj\Debug\EmailChecker.csproj.CoreCompileInputs.cache
+C:\Users\Scoob\Documents\GitHub\EmailChecker\EmailChecker\bin\Debug\EmailChecker.exe.config
+C:\Users\Scoob\Documents\GitHub\EmailChecker\EmailChecker\bin\Debug\EmailChecker.exe
+C:\Users\Scoob\Documents\GitHub\EmailChecker\EmailChecker\bin\Debug\EmailChecker.pdb
+C:\Users\Scoob\Documents\GitHub\EmailChecker\EmailChecker\obj\Debug\EmailChecker.exe
+C:\Users\Scoob\Documents\GitHub\EmailChecker\EmailChecker\obj\Debug\EmailChecker.pdb
